@@ -26,7 +26,7 @@
     "enzyme-adapter-react-16": "^1.15.4",
     "html-webpack-plugin": "^4.4.1",
     "jest": "^26.4.2",
-    "node-forge": "^0.10.0",
+    "node-forge": "^1.0.0",
     "sinon": "^9.0.3",
     "style-loader": "^1.2.1",
     "webpack": "^4.44.2",
